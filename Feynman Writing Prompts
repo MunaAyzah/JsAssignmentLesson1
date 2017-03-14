@@ -1,0 +1,43 @@
+
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old. 
+
+
+Variables
+Strings
+Functions (arguments, return)
+if statements
+Boolean values (true, false)
+
+Answers:
+
+Variable: Is a name which holds value.In a program you initialise them and assign values to them. 
+In Javascript we define variable as follows: 
+var variable_name = value;
+where var is datatype
+variable_name: can be any meaningful name
+value: data given to the variable.
+
+String: is used to name set of characters or letter or alphabet.We use double quotes(" ") for string values.
+
+Function: is a package,which can be called from anywhere in the program.Its a building blocks which performs 
+set of instruction as and when called.
+We define Function as follows:
+function function-name(){
+}
+
+If statements: Statement used when we have two or more possible answers.
+Syntax:
+if(condition){
+statement
+.
+.
+.
+(run these instruction)
+}
+
+types: 
+1. If statements
+2. If... else statement
+3.if...elseif..else statement.
+
+Boolean Values: its a result of instructions or comparision or condition either true or false, 0 or 1.
